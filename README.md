@@ -141,10 +141,4 @@ Possible features to add in future versions:
 - A database using SQLite.
 - A graphical user interface.
 
-## Author
-
-Created as a Python learning project to practise programming fundamentals and build practical coding experience.
-
----
-
-If you find this project useful, feel free to fork it, experiment with the code, and add your own features.
+BY LAkshya :)
